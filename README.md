@@ -12,7 +12,7 @@
 Now Enjoy.
 
 ### Credit
-Superior Os
+Superior Extended
 
 ### Channel
 [MiuiAosp](https://t.me/MiuiAOSP)
