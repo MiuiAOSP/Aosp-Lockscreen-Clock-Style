@@ -12,7 +12,7 @@
 Now Enjoy.
 
 ### Credit
-Superior Extended
+Project Elixir 
 
 ### Channel
 [MiuiAosp](https://t.me/MiuiAOSP)
